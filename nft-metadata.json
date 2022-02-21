@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "This is my first nft collection for mint.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNefnwP7HGyZjhzsPdYpp1kBz1d7d5vaDd3f71ctzJxCe",
+    "name": "Ramses"
+  }
+  
